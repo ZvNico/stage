@@ -1,4 +1,22 @@
-listResults
-bi-bloc-
-bi-site-internet
-pj-lb pj-link
+| liste
+#listResults
+.bi-bloc-
+
+| plusieurs site internet
+.bi-site-internet
+.pj-lb .pj-link
+
+| un seul site internet
+.SEL-internet
+
+|e mail
+.SEL-email
+
+| nom entreprise
+.denomination-links
+
+| telephone
+strong
+.num
+
+

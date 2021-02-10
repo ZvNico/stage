@@ -1,6 +1,4 @@
-import utils
+from utils import search_results
 
 if __name__ == '__main__':
-    pass
-
-
+    search_results('commerce', 'paris')
